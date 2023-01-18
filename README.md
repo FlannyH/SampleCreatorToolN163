@@ -8,3 +8,4 @@ Very scuffed. Edit these values to get the result you want
     let output_sample_pos = 0; // N163 wavetable position. Doesn't matter for Game Boy
     let name_string = "Output File"; // Name of the instrument. Change this to whatever you want
 ```
+To change which file to load, change the file path somewhere down in the file.
